@@ -10,7 +10,7 @@ Projeto desenvolvido junto com a Rockeatseat
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
 </p>
 
-<img src=".github/web.png">
+<img src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/ARg9M_QVIXSqU9gxmtJBCunACUb8GPFIH8p-yPbSIkUHJ6-sLP33kFa2NKNQm0dg/n/grbcvhus1oua/b/cdn/o/copa.png">
 
 ## 💻 Projeto
 
