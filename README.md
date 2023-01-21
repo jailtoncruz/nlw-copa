@@ -2,7 +2,7 @@
 Projeto desenvolvido junto com a Rockeatseat
 
 <p align="center">
-  <img alt="NLW Copa" src=".github/logo.svg" />
+  <img alt="NLW Copa" src="https://github.com/rocketseat-education/nlw-copa-ignite/blob/main/.github/logo.svg" />
 </p>
 
 <p align="center">
